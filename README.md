@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hassaan Khan
 - 👀 I’m interested in Software Engineering and AI Systems Development.
-- 🌱 I’m currently studying Bahcelors in Computer Science.
+- 🌱 I’m currently studying Bachelors in Computer Science.
 - 💞️ I’m looking to collaborate on C++ and Python oriented projects.
 - 📫 How to reach me hk7866@yahoo.con
 - 😄 Pronouns: Him/His
