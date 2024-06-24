@@ -6,7 +6,7 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I was a pre-medical student before I switched to Tech because of my passion.
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=Hassank7866)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Hassank7866)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 Hassank7866/Hassank7866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
